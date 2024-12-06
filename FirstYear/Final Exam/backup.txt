@@ -1,0 +1,46 @@
+TOTAL NUMBER OF STOCK: 3
+Stock #1
+Style Number: 0
+*Size 3: 2
+*Size 4: 2
+*Size 5: 2
+*Size 6: 2
+*Size 7: 2
+*Size 8: 2
+*Size 9: 2
+*Size 10: 2
+*Size 11: 2
+*Size 12: 2
+*Size 13: 2
+*Size 14: 2
+Price: $150.00
+Stock #2
+Style Number: 1
+*Size 3: 5
+*Size 4: 5
+*Size 5: 5
+*Size 6: 5
+*Size 7: 5
+*Size 8: 5
+*Size 9: 5
+*Size 10: 5
+*Size 11: 5
+*Size 12: 5
+*Size 13: 5
+*Size 14: 5
+Price: $1000.00
+Stock #3
+Style Number: 4
+*Size 3: 1
+*Size 4: 1
+*Size 5: 1
+*Size 6: 1
+*Size 7: 1
+*Size 8: 1
+*Size 9: 1
+*Size 10: 1
+*Size 11: 1
+*Size 12: 1
+*Size 13: 1
+*Size 14: 1
+Price: $500.00

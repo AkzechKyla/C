@@ -54,9 +54,9 @@ int ask_user_feature() {
 		printf("|\t[2] Card Hunting Formatter	               		|\n");
 		printf("+---------------------------------------------------+\n");
 		printf("\n");
-	
+
 	input = get_range_input(1, 3, ">>> ");
-	
+
 	return input;
 }
 
